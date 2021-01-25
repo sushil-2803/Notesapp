@@ -1,7 +1,9 @@
 # Notes App
-My first application using Nodejs
-It is a simple command line application which can provides functionalities like Add, Remove, List and Read
-Stores data in a JSON file
+My first application using Nodejs.
+
+It is a simple command line application which provides functionalities like Add, Remove, List and Read notes.
+
+It stores data in a JSON file
 
 ## External Packages Used
 Chalk and Yargs
